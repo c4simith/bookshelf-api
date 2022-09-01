@@ -1,11 +1,13 @@
 # bookshelf-api
-Sample REST api for Book shelf opertions
-Entity :
-Book {id, name, author, genre}
+Sample REST api for Book shelf opertions.
 
-Usecases :
-1.Get book details by Id
-2.Get all book details
-3.Search book details by Name/Author/Genre
-4.Add new book
-5.Delete book
+Entity :
+* Book {id, name, author, genre}
+
+ Usecases :
+ 
+* Get book details by Id
+* Get all book details
+* Search book details by Name/Author/Genre
+* Add new book
+* Delete book
